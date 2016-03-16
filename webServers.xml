@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="57639fd5-e497-476f-b067-2116867a9bfb" name="NginX server" url="http://localhost">
+        <fileTransfer mountedRoot="/usr/share/nginx/html" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

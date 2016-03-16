@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="Dockerfile" type="Docker file" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
+      <mapping pattern="FfmpegThumbnailExtractorThread" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
