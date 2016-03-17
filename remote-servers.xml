@@ -5,5 +5,10 @@
         <option name="apiUrl" value="http://127.0.0.1:2376" />
       </configuration>
     </remote-server>
+    <remote-server name="Deployment server" type="docker">
+      <configuration email="">
+        <option name="apiUrl" value="http://127.0.0.1:23760" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
