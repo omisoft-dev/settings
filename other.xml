@@ -224,6 +224,9 @@
     <resource url="urn:jboss:user-roles:1.0" location="$USER_HOME$/dev/servers/EAP-6.4.0/docs/schema/user-roles_1_0.xsd" />
     <resource url="urn:jboss:weld:1.0" location="$USER_HOME$/dev/servers/wildfly-8.2.1.Final/docs/schema/jboss-weld-1_0.xsd" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="0.10.42" last-modified="1455060376000" />
+  </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="true" url="http://192.168.4.14">
       <option name="APIKey" value="" />
