@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile" type="Docker file" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="FfmpegThumbnailExtractorThread" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
