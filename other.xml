@@ -227,6 +227,10 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/bin/node" version="0.10.42" last-modified="1455060376000" />
   </component>
+  <component name="PyCodeInsightSettings">
+    <option name="PREFER_FROM_IMPORT" value="false" />
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="true" url="http://192.168.4.14">
       <option name="APIKey" value="" />
