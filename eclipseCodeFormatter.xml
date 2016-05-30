@@ -4,8 +4,11 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1460707033590" />
           <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/dev/conventions/omisoft_formatter_eclipse.xml" />
+          <option name="selectedJavaProfile" value="OmisoftStyle" />
         </Settings>
       </list>
     </option>
