@@ -226,7 +226,7 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="6.2.0" last-modified="1464705735000" />
-    <node-interpreter path="/usr/bin/node" version="6.2.0" last-modified="1463514029000" />
+    <node-interpreter path="/usr/bin/node" version="0.10.45" last-modified="1462550101000" />
   </component>
   <component name="PyCodeInsightSettings">
     <option name="PREFER_FROM_IMPORT" value="false" />
