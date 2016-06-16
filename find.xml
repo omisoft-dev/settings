@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '/home/dido/dev/omibox/common'" />
-    <option name="defaultScopeName" value="Directory '/home/dido/dev/omibox/common'" />
+    <option name="customScope" value="Directory '/home/dido/dev/omibox/emailsrv'" />
+    <option name="defaultScopeName" value="Directory '/home/dido/dev/omibox/emailsrv'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/home/dido/dev/omibox/common'" />
+    <option name="SEARCH_SCOPE" value="Directory '/home/dido/dev/omibox/emailsrv'" />
   </component>
 </application>
