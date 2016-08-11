@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="57639fd5-e497-476f-b067-2116867a9bfb" name="NginX server" url="http://localhost">
+      <webServer id="57639fd5-e497-476f-b067-2116867a9bfb" name="Local NginX server" url="http://omibox.io">
         <fileTransfer port="0" mountedRoot="/opt/omibox/html" accessType="MOUNT" />
       </webServer>
     </option>
