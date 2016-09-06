@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="Docker file" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
-      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="FfmpegThumbnailExtractorThread" type="PLAIN_TEXT" />
+      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
