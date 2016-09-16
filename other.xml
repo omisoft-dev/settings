@@ -3,4 +3,16 @@
     <local-interpreter path="/usr/bin/node" />
     <local-interpreter path="/usr/local/bin/node" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.21.24/repos/production" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.21.24/repos/production" />
+      </list>
+    </option>
+  </component>
 </application>
