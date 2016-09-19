@@ -1,4 +1,8 @@
 <application>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="$USER_HOME$/dev/sdk/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0" />
+    <option name="myPathToSceneBuilder" value="$USER_HOME$/dev/sdk/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0" />
+  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/bin/node" />
     <local-interpreter path="/usr/local/bin/node" />
