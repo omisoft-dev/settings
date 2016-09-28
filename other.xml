@@ -7,6 +7,24 @@
     <local-interpreter path="/usr/bin/node" />
     <local-interpreter path="/usr/local/bin/node" />
   </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://192.168.4.14">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="4" identifier="omierp" />
+      </option>
+      <password>dfdedfc3dfcddfcfdfd8df9bdf98df99</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>datanasov</username>
+    </Redmine>
+  </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
