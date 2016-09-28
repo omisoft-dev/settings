@@ -25,6 +25,9 @@
       <username>datanasov</username>
     </Redmine>
   </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+  </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
