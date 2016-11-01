@@ -1,4 +1,10 @@
 <application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="JavaFxSettings">
     <option name="pathToSceneBuilder" value="$USER_HOME$/dev/sdk/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0" />
     <option name="myPathToSceneBuilder" value="$USER_HOME$/dev/sdk/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0" />
