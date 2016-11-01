@@ -7,7 +7,6 @@
       <mapping pattern="FfmpegThumbnailExtractorThread" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
