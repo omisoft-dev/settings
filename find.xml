@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '/home/dido/dev/omibox/videopipeline'" />
     <option name="defaultScopeName" value="Directory '/home/dido/dev/omibox/videopipeline'" />
     <option name="SEARCH_SCOPE" value="Directory '/home/dido/dev/omibox/videopipeline'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,8 +13,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
-      <mask>*.java</mask>
       <mask>*.sql</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
